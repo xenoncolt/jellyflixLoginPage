@@ -1,4 +1,4 @@
-# jellyflixLoginPage
+# Jellyflix Login Page
 
 #Import Link
 
