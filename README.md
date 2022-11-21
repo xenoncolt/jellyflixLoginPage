@@ -1,4 +1,4 @@
 # jellyflixLoginPage
 
 #Import Link
-```@import url('')```
+```@import url('https://cdn.jsdelivr.net/gh/xenoncolt/jellyflixLoginPage@main/jellyflixLogin.css')```
