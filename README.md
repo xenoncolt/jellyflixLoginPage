@@ -2,4 +2,4 @@
 
 #Import Link
 
-```@import url('https://cdn.jsdelivr.net/gh/xenoncolt/jellyflixLoginPage@main/jellyflixLogin.css')```
+New CSS has been created [here](https://github.com/xenoncolt/JellyFlixCustomCSS).
